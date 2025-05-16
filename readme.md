@@ -20,4 +20,4 @@
 
 ---
 
-## NB❗: this project runs correctly on desktop, click here to [run](https://www.lionel-hue.github.io/commerce_website_frontend/src/login.html)
+## NB❗: this project runs correctly on desktop, click here to [run](https://lionel-hue.github.io/commerce_website_frontend/src/login.html)
